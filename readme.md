@@ -1,5 +1,9 @@
 # Project Euler in C
 
+*Note*: This project is always in heavy development and is for learning
+purposes. Please don't expect anything to work. Feel free to criticize and
+share your opinions.
+
 So I've been wanting to pickup more C. Especially since it's so widely used in
 a lot of the projects I'm using on my Linux workstation setup. I figured a good
 way to do this was to actually finish Project Euler and see what I can do!
